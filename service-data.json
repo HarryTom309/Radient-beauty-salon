@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Facial",
+      "description": "Rejuvenating skin treatments tailored to your needs.",
+      "image": "/Images/facial.jpg",
+      "types": ["Golden Facial", "Fruit Facial", "Anti-Aging Facial", "Hydrating Facial"],
+      "price": 50
+    },
+    {
+      "name": "Massage Therapy",
+      "description": "Relaxing massages to relieve stress and tension.",
+      "image": "/Images/massage.jpg",
+      "types": ["Swedish Massage", "Deep Tissue Massage", "Aromatherapy Massage", "Hot Stone Massage"],
+      "price": 70
+    },
+    {
+      "name": "Haircut & Styling",
+      "description": "Perfect haircuts and styling for any occasion.",
+      "image": "/Images/haircut.jpg",
+      "types": ["Straightening", "Keratin Blast", "Hair Styling", "Hair Coloring"],
+      "price": 40
+    },
+    {
+      "name": "Nail Services",
+      "description": "Manicures and pedicures for beautiful nails.",
+      "image": "/Images/nail.jpg",
+      "types": ["Classic Manicure", "Gel Manicure", "Spa Pedicure", "Nail Art"],
+      "price": 30
+    }
+  ]

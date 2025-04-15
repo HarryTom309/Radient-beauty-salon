@@ -1,0 +1,12 @@
+{
+    "name": "radiant-beauty-salon",
+    "version": "1.0.0",
+    "description": "Radiant Beauty Salon & Spa website",
+    "scripts": {
+      "start": "cd server && npm start",
+      "client": "cd client && npm start",
+      "install-all": "npm install && cd client && npm install && cd ../server && npm install"
+    },
+    "author": "",
+    "license": "ISC"
+  }
